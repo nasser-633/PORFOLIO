@@ -1,6 +1,6 @@
 import React, { forwardRef } from 'react';
 import profileImage from '../assets/portfolioimg.jpg';
-import resumeFile from '../assets/Emmanuel-Resume.pdf';
+import resumeFile from '../assets/Emmanuel-resume.pdf';
 
 const Hero = forwardRef(({ onProjectsClick }, ref) => {
   return (
