@@ -14,7 +14,7 @@ const Projects = forwardRef((props, ref) => {
       name: 'My New Project',
       description: 'learning and upgrading my skils',
       technologies: ['JavaScript', 'Node.js', 'Git'],
-      liveLink: 'https://github.com/Osike/GROUP1-.git',
+      liveLink: 'https://porfolio-git-main-nasser-633s-projects.vercel.app',
       githubLink: 'https://github.com/Osike/GROUP1-.git',
       image: 'src/assets/portfoliogimg1.jpeg',
     },
